@@ -1,2 +1,5 @@
 # BT-Dropin-example
-Braintree JS SDK implementation with 3DS
+Braintree Dropin integration using Nodejs
+
+Official Documentation for the integration can be found here:
+https://developer.paypal.com/braintree/docs/start/drop-in
